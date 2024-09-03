@@ -41,6 +41,10 @@ I mostly work with **GCP, AWS, Azure, Kubernetes, Jenkins, Terraform and other C
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"  height="75" />
   </a> 
+  
+  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
+    <img src="https://automatenow.io/wp-content/uploads/2024/01/jenkins-test-automation.webp"  height="75" />
+  </a> 
 
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
     <img src="https://logodix.com/logo/996410.gif"  height="75" />
