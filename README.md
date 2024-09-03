@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am Harsh, a **Devops Engineer** from 🇮🇳 passionate about developing production-ready applications with 6+ years of professional onsite as well as remote working experience. 🎯
+I am H, a **DevOps Engineer** from 🇮🇳 passionate about automating, scaling, and deploying production-ready applications. 🎯
+
+I specialize in **CI/CD pipelines, infrastructure as code, and cloud-based solutions**. 🚀
 
 I mostly work with **GCP, AWS, Azure, Kubernetes, Jenkins, Terraform and other Cloud-based technologies**. 🚀
 
@@ -19,7 +21,7 @@ I mostly work with **GCP, AWS, Azure, Kubernetes, Jenkins, Terraform and other C
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
-  
+
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
     <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*gJ5RBdc0sbO0IxkZ_YU_YQ.gif"  height="75" />
   </a> 
