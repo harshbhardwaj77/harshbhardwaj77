@@ -33,6 +33,11 @@ I mostly work with **GCP, AWS, Azure, Kubernetes, Jenkins, Terraform and other C
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
   </a> 
+
+  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
+    <img src="https://fcpl.biz/wp-content/uploads/2023/08/image_processing20220509-14547-1rg3w9n.gif"  height="75" />
+  </a> 
+
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
