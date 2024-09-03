@@ -19,11 +19,13 @@ I mostly work with **GCP, AWS, Azure, Kubernetes, Jenkins, Terraform and other C
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
-  <a href="https://grpc.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
-  </a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+  
+  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
+    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*gJ5RBdc0sbO0IxkZ_YU_YQ.gif"  height="75" />
+  </a> 
+
+  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"  height="75" />
   </a>
  </p>
   
@@ -34,13 +36,7 @@ I mostly work with **GCP, AWS, Azure, Kubernetes, Jenkins, Terraform and other C
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
   </a> 
 
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*gJ5RBdc0sbO0IxkZ_YU_YQ.gif"  height="75" />
-  </a> 
-
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"  height="75" />
-  </a> 
+   
   
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
     <img src="https://automatenow.io/wp-content/uploads/2024/01/jenkins-test-automation.webp"  height="75" />
