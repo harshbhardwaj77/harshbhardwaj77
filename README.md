@@ -42,6 +42,10 @@ I mostly work with **GCP, AWS, Azure, Kubernetes, Jenkins, Terraform and other C
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"  height="75" />
   </a> 
 
+  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682361045048/796f4815-0594-4c35-99d9-65d3bfa4d53e.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"  height="75" />
+  </a> 
+
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
