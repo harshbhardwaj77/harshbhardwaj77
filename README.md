@@ -39,7 +39,7 @@ I mostly work with **GCP, AWS, Azure, Kubernetes, Jenkins, Terraform and other C
   </a> 
 
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://en.wikipedia.org/wiki/Microsoft_Azure#/media/File:Microsoft_Azure.svg"  height="75" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"  height="75" />
   </a> 
 
   <a href="https://aws.amazon.com/" target="_blank" >
