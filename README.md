@@ -35,7 +35,7 @@ I mostly work with **GCP, AWS, Azure, Kubernetes, Jenkins, Terraform and other C
   </a> 
 
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://fcpl.biz/wp-content/uploads/2023/08/image_processing20220509-14547-1rg3w9n.gif"  height="75" />
+    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*gJ5RBdc0sbO0IxkZ_YU_YQ.gif"  height="75" />
   </a> 
 
   <a href="https://aws.amazon.com/" target="_blank" >
