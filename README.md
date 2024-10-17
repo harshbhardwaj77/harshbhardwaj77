@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am H, a **DevOps Engineer** from 🇮🇳 passionate about automating, scaling, and deploying production-ready applications. 🎯
+I am Harsh Bhardwaj, a **DevOps Engineer** from 🇮🇳 passionate about automating, scaling, and deploying production-ready applications. 🎯
 
 I specialize in **CI/CD pipelines, infrastructure as code, and cloud-based solutions**. 🚀
 
